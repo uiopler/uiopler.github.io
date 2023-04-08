@@ -20,11 +20,11 @@ const config = {
     behance: '',
     medium: '',
     dev: 'uiopler',
-    stackoverflow: 'uiopler', // format: userid/username
+    stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
     website: 'https://uiopler.is-a.dev',
-    phone: '78867886',
+    phone: '',
     email: 'uiopler.dev@gmail.com',
   },
   resume: {
