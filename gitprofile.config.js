@@ -66,24 +66,24 @@ const config = {
     },
   ], */
   education: [
-    {
-      institution: 'Toulouse College',
-      degree: 'Highschool Diploma',
-      from: '2022',
-      to: 'Present',
-    },
-    {
-      institution: 'Zahia Salman Highschool',
-      degree: 'Lebanese Brevet',
-      from: '2019',
-      to: '2021',
-    },
-    {
-      institution: 'Toulouse College',
-      degree: 'Middle School',
-      from: '2014',
-      to: '2019',
-    },
+//     {
+//       institution: 'Toulouse College',
+//       degree: 'Highschool Diploma',
+//       from: '2022',
+//       to: 'Present',
+//     },
+//     {
+//       institution: 'Zahia Salman Highschool',
+//       degree: 'Lebanese Brevet',
+//       from: '2019',
+//       to: '2021',
+//     },
+//     {
+//       institution: 'Toulouse College',
+//       degree: 'Middle School',
+//       from: '2014',
+//       to: '2019',
+//     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
